@@ -7,13 +7,6 @@ service_worker.js
 css/app.css
 css/desktop.css
 css/mobile.css
-img/Manytabs.png
-img/Manytabs_2x.png
-img/Telegram.png
-img/Telegram.svg
-img/Telegram72.png
-img/Telegram72_2x.png
-img/Telegram_2x.png
 img/blank.gif
 img/emojisprite_0.png
 img/emojisprite_1.png
@@ -23,7 +16,14 @@ img/emojisprite_4.png
 img/iphone_home120.png
 img/iphone_startup.png
 img/logo_share.png
+img/Manytabs.png
+img/Manytabs_2x.png
 img/sound_a.mp3
+img/Telegram.png
+img/Telegram.svg
+img/Telegram72.png
+img/Telegram72_2x.png
+img/Telegram_2x.png
 js/app.js
 nacl/mtproto_crypto.nmf
 nacl/mtproto_crypto.pexe
@@ -32,6 +32,7 @@ img/icons/AboutLogos.png
 img/icons/AboutLogos_2x.png
 img/icons/General.png
 img/icons/General_2x.png
+img/icons/icon.svg
 img/icons/IconsetSmiles.png
 img/icons/IconsetSmiles_2x.png
 img/icons/IconsetW.png
@@ -44,7 +45,6 @@ img/icons/PhotoIcons.png
 img/icons/PhotoIcons_2x.png
 img/icons/ProfileIcons.png
 img/icons/ProfileIcons_2x.png
-img/icons/icon.svg
 img/placeholders/DialogListAvatarSystem@2x.png
 img/placeholders/Fave.png
 img/placeholders/GroupAvatar1@2x.png
@@ -74,6 +74,7 @@ js/locales/it-it.json
 js/locales/nl-nl.json
 js/locales/pt-br.json
 js/locales/ru-ru.json
+js/locales/zh-cn.json
 vendor/closure/long.js
 vendor/cryptoJS/crypto.js
 vendor/jsbn/jsbn_combined.js
@@ -87,10 +88,11 @@ vendor/angular/i18n/angular-locale_it-it.js
 vendor/angular/i18n/angular-locale_nl-nl.js
 vendor/angular/i18n/angular-locale_pt-br.js
 vendor/angular/i18n/angular-locale_ru-ru.js
+vendor/angular/i18n/angular-locale_zh-cn.js
 
 NETWORK:
 http://*
 https://*
 *
 
-# hash: d567d2eb2ca50cbdc0a9f7380a9d040148db7c0d50c5b3adb88a1f18c51cd088
+# hash: 8485820c2d31e4c1a009a25add6e1ac04bb8f348d985ed290b03f20dd4b3c561
